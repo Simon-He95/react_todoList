@@ -1,0 +1,6 @@
+.header input{
+    width: 100%;
+    outline: mediumturquoise;
+    text-indent: 5px;
+    box-sizing: border-box;
+}
